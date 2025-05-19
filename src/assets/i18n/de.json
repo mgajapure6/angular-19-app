@@ -1,0 +1,34 @@
+{
+  "APP_TITLE": "Admin Dashboard",
+  "HEADER": {
+    "LOGOUT": "Abmelden"
+  },
+  "SIDEBAR": {
+    "START": "Start",
+    "AUTH": "Authentifizierung",
+    "HOME": "Startseite",
+    "DASHBOARD": "Dashboard",
+    "MANAGEMENT_REPORT": "Management Bericht",
+    "DISPATCHER_REPORT": "Disponenten Bericht",
+    "FACTORY_CONFIG": "Fabrik Konfiguration",
+    "PART_CONFIG": "Teile Konfiguration",
+    "PARAMETER_CONFIG": "Parameter Konfiguration"
+  },
+  "NOT_FOUND": {
+    "TITLE": "Seite nicht gefunden",
+    "MESSAGE": "Die gesuchte Seite existiert nicht.",
+    "BACK_HOME": "Zurück zur Startseite"
+  },
+  "AUTH": {
+    "TITLE": "Anmelden",
+    "USERNAME": "Benutzername",
+    "USERNAME_PLACEHOLDER": "Geben Sie Ihren Benutzernamen ein",
+    "USERNAME_REQUIRED": "Benutzername ist erforderlich",
+    "PASSWORD": "Passwort",
+    "PASSWORD_PLACEHOLDER": "Geben Sie Ihr Passwort ein",
+    "PASSWORD_REQUIRED": "Passwort ist erforderlich",
+    "LOGIN": "Anmelden",
+    "INVALID_CREDENTIALS": "Ungültiger Benutzername oder Passwort",
+    "BACK_TO_START": "Zurück zum Start"
+  }
+}
