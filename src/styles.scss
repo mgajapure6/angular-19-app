@@ -1,4 +1,8 @@
-/* Global styles for the application */
+/**
+ * Global styles with custom variables and Poppins font import
+ */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
+
 :root {
   --primary: #007bff;
   --primary-dark: #0056b3;
