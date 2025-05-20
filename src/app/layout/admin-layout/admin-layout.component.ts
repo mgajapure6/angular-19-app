@@ -36,20 +36,20 @@ import { SidebarService } from '../../core/services/sidebar.service';
     }
     .main-content {
       margin-left: 250px;
-      padding: 30px;
       overflow-y: auto;
       height: calc(100vh - 60px);
       background: var(--background);
       box-sizing: border-box; /* Prevent padding issues */
       width: calc(100vw - 250px); /* Occupy remaining viewport width */
       transition: margin-left 0.3s ease, width 0.3s ease; /* Smooth transition */
+      background-color: #eff9ff;
     }
     .main-content.collapsed {
       margin-left: 80px;
       width: calc(100vw - 80px); /* Expand to remaining width when collapsed */
     }
     .content-container {
-      max-width: 1400px;
+      max-width: 100%;
       margin: 0 auto;
     }
     /* Debug: Visually indicate collapse state */

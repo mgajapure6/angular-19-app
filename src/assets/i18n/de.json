@@ -1,5 +1,5 @@
 {
-  "APP_TITLE": "Admin Dashboard",
+  "APP_TITLE": "Admin-Dashboard",
   "HEADER": {
     "LOGOUT": "Abmelden"
   },
@@ -8,11 +8,11 @@
     "AUTH": "Authentifizierung",
     "HOME": "Startseite",
     "DASHBOARD": "Dashboard",
-    "MANAGEMENT_REPORT": "Management Bericht",
-    "DISPATCHER_REPORT": "Disponenten Bericht",
-    "FACTORY_CONFIG": "Fabrik Konfiguration",
-    "PART_CONFIG": "Teile Konfiguration",
-    "PARAMETER_CONFIG": "Parameter Konfiguration"
+    "MANAGEMENT_REPORT": "Management-Bericht",
+    "DISPATCHER_REPORT": "Disponenten-Bericht",
+    "FACTORY_CONFIG": "Fabrik-Konfiguration",
+    "PART_CONFIG": "Teile-Konfiguration",
+    "PARAMETER_CONFIG": "Parameter-Konfiguration"
   },
   "NOT_FOUND": {
     "TITLE": "Seite nicht gefunden",
@@ -30,5 +30,37 @@
     "LOGIN": "Anmelden",
     "INVALID_CREDENTIALS": "Ungültiger Benutzername oder Passwort",
     "BACK_TO_START": "Zurück zum Start"
+  },
+  "HOME": {
+    "TITLE": "Lagerverwaltungssystem",
+    "DESCRIPTION": "Verfolgen und verwalten Sie Ihren Bestand effizient mit Echtzeit-Updates, umfassenden Berichten und nahtloser Konfiguration. Behalten Sie die Kontrolle mit unserem intuitiven Admin-Dashboard.",
+    "MANAGEMENT_REPORT": "Management-Bericht",
+    "MANAGEMENT_REPORT_DESC": "Detaillierte Analysen und Einblicke für strategische Entscheidungen anzeigen.",
+    "DISPATCHER_REPORT": "Disponenten-Bericht",
+    "DISPATCHER_REPORT_DESC": "Überwachen Sie Versandvorgänge und optimieren Sie Logistikabläufe.",
+    "USER_MANUAL": "Benutzerhandbuch",
+    "USER_MANUAL_DESC": "Greifen Sie auf die umfassende Anleitung zur Nutzung des Lagerverwaltungssystems zu.",
+    "SUPPORT_EMAIL": "Support kontaktieren",
+    "SUPPORT_EMAIL_DESC": "Wenden Sie sich an unser Support-Team für Unterstützung."
+  },
+  "MANAGEMENT_REPORT": {
+    "REPORT_TIME": "Berichtszeit",
+    "SELECT_DATE": "Datum auswählen",
+    "SELECT_TIME": "Uhrzeit auswählen",
+    "SEARCH_PLACEHOLDER": "Nach Teilecode oder Beschreibung suchen",
+    "EXPORT": "Management-Bericht exportieren",
+    "PARTCODE": "Teilecode",
+    "PART_DESCRIPTION": "Teilebeschreibung",
+    "LAG_CUSTOMER": "LAG Kunde",
+    "MAT": "MAT",
+    "LAG_MAT": "LAG+MAT",
+    "DAILY_DEMAND": "Täglicher Bedarf",
+    "RANGE_LAG": "Bereich LAG",
+    "RANGE_LAG_MAT": "Bereich LAG+MAT",
+    "INT": "INT",
+    "RANGE_LAG_MAT_INT": "Bereich LAG+MAT+INT",
+    "LAG_SUPPLIER": "LAG Lieferant",
+    "FACTORY_CODE_SUPPLIER": "Fabrikcode Lieferant",
+    "SIV": "SIV (00:30 GMT)"
   }
 }

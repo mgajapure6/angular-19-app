@@ -30,5 +30,37 @@
     "LOGIN": "Login",
     "INVALID_CREDENTIALS": "Invalid username or password",
     "BACK_TO_START": "Back to Start"
+  },
+  "HOME": {
+    "TITLE": "Stock Monitoring System",
+    "DESCRIPTION": "Efficiently track and manage your inventory with real-time updates, comprehensive reports, and seamless configuration. Stay in control with our intuitive admin dashboard.",
+    "MANAGEMENT_REPORT": "Management Report",
+    "MANAGEMENT_REPORT_DESC": "View detailed analytics and insights for strategic decision-making.",
+    "DISPATCHER_REPORT": "Dispatcher Report",
+    "DISPATCHER_REPORT_DESC": "Monitor dispatch operations and optimize logistics workflows.",
+    "USER_MANUAL": "User Manual",
+    "USER_MANUAL_DESC": "Access the comprehensive guide to using the Stock Monitoring System.",
+    "SUPPORT_EMAIL": "Contact Support",
+    "SUPPORT_EMAIL_DESC": "Reach out to our support team for assistance."
+  },
+  "MANAGEMENT_REPORT": {
+    "REPORT_TIME": "Report Time",
+    "SELECT_DATE": "Select Date",
+    "SELECT_TIME": "Select Time",
+    "SEARCH_PLACEHOLDER": "Search by Partcode or Description",
+    "EXPORT": "Export Management Report",
+    "PARTCODE": "Partcode",
+    "PART_DESCRIPTION": "Part Description",
+    "LAG_CUSTOMER": "LAG Customer",
+    "MAT": "MAT",
+    "LAG_MAT": "LAG+MAT",
+    "DAILY_DEMAND": "Daily Demand",
+    "RANGE_LAG": "Range LAG",
+    "RANGE_LAG_MAT": "Range LAG+MAT",
+    "INT": "INT",
+    "RANGE_LAG_MAT_INT": "Range LAG+MAT+INT",
+    "LAG_SUPPLIER": "LAG Supplier",
+    "FACTORY_CODE_SUPPLIER": "Factory Code Supplier",
+    "SIV": "SIV (00:30 GMT)"
   }
 }
